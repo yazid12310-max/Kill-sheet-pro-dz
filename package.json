@@ -1,0 +1,26 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://x-access-token:eyJ0eXAiOiJKV1QiLCJraWQiOiJwRFpsK3MrTmZBTVBCeExqdXlka0dYK2JYV01xbFprc1U1RW1DUE1mQXVnIiwiYWxnIjoiSFMyNTYifQ.eyJzY29wZSI6InJlcG86NmIzZWRhYzgtZmYyYi00MjljLTliYzgtNjhiMjUwMWM2NTY1OndyaXRlIiwicmVwb19zbHVnIjoieWF6aWQtYmVuYW91ZGEvYWktc3R1ZGlvLWFwcC0wOTViYzUiLCJleHAiOjE3OTMzNjM3NjQsImlhdCI6MTc5MzM2MDE2NH0.AcHnuuml1RbrK0Tq1__-oMh9pzmkXWM_vC3rlNNQNgI@hgit.services-prod.nsvcs.net/yazid-benaouda/ai-studio-app-095bc5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@netlify/database": "^2.0.1",
+    "@netlify/functions": "^6.0.3",
+    "drizzle-orm": "^1.0.0-beta.22"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^1.0.0-beta.22",
+    "typescript": "^7.0.2"
+  }
+}
